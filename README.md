@@ -2,7 +2,7 @@
 
     
 ### Student Life
-    I did my matriculation and Intermediate from Higher Secondary School in Ghazi Ghat Pakistan... 
+    I did my matriculation from University Wensam College Dera Ismail Khan and Intermediate from LEEDS School and College Dera Ismail Khan Pakistan... 
     For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
 
 ###  Professional Side:
