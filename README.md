@@ -23,7 +23,7 @@
     🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
     
 ### Portfolio    
-    🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
+    🔗 
 
 ### Technologies I am working with:
     👉   Spring (Java)
