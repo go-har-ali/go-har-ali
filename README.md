@@ -47,7 +47,7 @@
     👉  APIs Testing Tools
             Postman Client
             Swagger
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
+![GitHub streak stats](https://github.com/go-har-ali/Learn-JS/graphs/commit-activity)
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
