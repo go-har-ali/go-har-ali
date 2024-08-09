@@ -49,7 +49,7 @@
             Swagger
 ![GitHub streak stats](https://github.com/go-har-ali/Learn-JS/graphs/commit-activity)
 <br/>
- ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=go-har-ali)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad-qureshi786&show_icons=true&theme=dark)  
 ![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
