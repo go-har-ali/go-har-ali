@@ -25,6 +25,7 @@
             Next.JS
             Node.JS
             Express.JS
+            MongoDB
             POSTMAN
             Thunder Client
             Vite 
