@@ -46,4 +46,4 @@
             Eclipse 
     👉  APIs Testing Tools
             Postman Client
-            Swagger
+            Thunder Client (VS Code Extension)
