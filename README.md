@@ -48,7 +48,8 @@
             JetBrains IntelliJ Idea (Community Edition)
             Netbeans
             Visual Studio Code
-            Eclipse 
+            Eclipse
+            Android Studio
     👉  APIs Testing Tools
             Postman Client
             Thunder Client (VS Code Extension)
