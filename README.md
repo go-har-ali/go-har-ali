@@ -14,6 +14,7 @@
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
 ### My Work and projects
     * Just completed a tourism website to promote tourism in Pakistan using (Next.JS)
+    * I created a construction website named Binladin Builders to polish my web design and development skills.
     * Also build an ecommerce website for a client using (REACT.JS)
 ### Portfolio    
     🔗 Under Construction...
