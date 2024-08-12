@@ -16,6 +16,8 @@
     * Just completed a tourism website to promote tourism in Pakistan using (Next.JS)
     * I created a construction website named Binladin Builders to polish my web design and development skills.
     * Also build an ecommerce website for a client using (REACT.JS)
+    * Moreover, I always preffered to learn the concepts practically so during my JavaScript learning journey I have completed a lot of mini-projects like 
+      Quiz App, Wheather App, Temperature Conversion App, TODO List, Dice Roller App, and mini-games etc.  
 ### Portfolio    
     🔗 Under Construction...
 
