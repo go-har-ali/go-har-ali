@@ -29,6 +29,7 @@
             POSTMAN
             Thunder Client
             Vite 
+            Nest.JS
     👉	Designing
             Figma
             Jira
