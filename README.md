@@ -40,6 +40,8 @@
             Notion.so
             Miro
             Canva
+            Adobe 
+            Blender
     👉  Version Control
             Git
             Github
