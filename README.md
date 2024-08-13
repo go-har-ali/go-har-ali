@@ -26,13 +26,14 @@
             Tailwind.css
             Bootstrap 5
             Next.JS
+            Nest.JS
             Node.JS
             Express.JS
             MongoDB
             POSTMAN
             Thunder Client
             Vite 
-            Nest.JS
+            npm
     👉	Designing
             Figma
             Jira
