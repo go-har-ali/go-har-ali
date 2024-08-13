@@ -16,6 +16,8 @@
     * Just completed a tourism website named Snowcap Adventures using (Next.JS) to promote tourism in Pakistan.
     * I created a construction website named Binladin Builders to polish my web design and development skills.
     * Also build an ecommerce website for a client using (REACT.JS)
+    * I am currently working on GPT-Integrated Evaluation System in which I am going to integrate GPT-API to utilize the power of A.I 
+      to evaluate assignments and quizzes with accuracy and feedback within a matter of seconds. It will also save the evaluation record for future use.
     * Moreover, I always preffered to learn the concepts practically so during my JavaScript learning journey I have completed a lot of mini-projects like 
       Quiz App, Wheather App, Temperature Conversion App, TODO List, Dice Roller App, Calculator App and mini-games etc.  
 ### Portfolio    
