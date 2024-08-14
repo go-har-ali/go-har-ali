@@ -51,7 +51,7 @@
             Jira for Software Project Management
     👉  Development IDEs
             JetBrains IntelliJ Idea (Community Edition)
-            Netbeans
+            Netbeans 12.3
             Visual Studio Code
             Eclipse
             Android Studio
