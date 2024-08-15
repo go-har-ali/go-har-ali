@@ -12,7 +12,7 @@
     with mentioned technologies below:
 >   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
-### My Work and projects
+### My Work and projects:
     * Just completed a tourism website named Snowcap Adventures using (Next.JS) to promote tourism in Pakistan.
     * I created a construction website named Binladin Builders to polish my web design and development skills.
     * Also build an ecommerce website for a client using (REACT.JS)
