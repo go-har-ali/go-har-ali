@@ -24,7 +24,7 @@
 ### Portfolio    
     🔗 Under Construction...
 
-### Technologies I am working with:
+### Technologies I am working with
     👉   REACT.JS with Redux
             Tailwind.css
             Bootstrap 5
