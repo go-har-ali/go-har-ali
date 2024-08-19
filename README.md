@@ -32,6 +32,7 @@
             Nest.JS
             Node.JS
             Express.JS
+            RESTful API
             MongoDB
             Firebase
             postgreSQL 
