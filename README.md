@@ -34,6 +34,7 @@
             Express.JS
             MongoDB
             Firebase
+            postgreSQL 
             POSTMAN
             Thunder Client
             Vite 
