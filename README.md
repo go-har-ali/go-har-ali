@@ -37,6 +37,7 @@
             Thunder Client
             Vite 
             npm
+            Docker + kubernates 
     👉	Designing
             Figma
             Jira
