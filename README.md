@@ -33,6 +33,7 @@
             Node.JS
             Express.JS
             MongoDB
+            Firebase
             POSTMAN
             Thunder Client
             Vite 
