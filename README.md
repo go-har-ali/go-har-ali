@@ -5,7 +5,7 @@
     I did my matriculation from University Wensam College Dera Ismail Khan and Intermediate from LEEDS School and College Dera Ismail Khan Pakistan... 
     For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
 
-###  Professional Side
+###  Professional Side:
     I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
     Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
     After having a handsome experience from a reputed software house, now I am working and having my own best team and startup contributing and providing services 
