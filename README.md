@@ -1,65 +1,42 @@
-### Hi there, Gohar Ali 😍 
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Full Stack Developer (MERN) from Pakistan</h3>
 
-    
-### Student Life
-    I did my matriculation from University Wensam College Dera Ismail Khan and Intermediate from LEEDS School and College Dera Ismail Khan Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepo/blob/main/banner.gif" alt="Fancy banner GIF" />
+</p>
 
-###  Professional Side:
-    I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
-    Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
-    After having a handsome experience from a reputed software house, now I am working and having my own best team and startup contributing and providing services 
-    with mentioned technologies below:
->   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
-    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my
->    understanding and to share my knowledge in the community because I believe that sharing is caring.
-### My Work and projects
-    * Just completed a tourism website named Snowcap Adventures using (Next.JS) to promote tourism in Pakistan.
-    * I created a construction website named Binladin Builders to polish my web design and development skills.
-    * Also build an ecommerce website for a client using (REACT.JS)
-    * I am currently working on GPT-Integrated Evaluation System in which I am going to integrate GPT-API to utilize the power of A.I 
-      to evaluate assignments and quizzes with accuracy and feedback within a matter of seconds. It will also save the evaluation record for future use.
-    * Moreover, I always preffered to learn the concepts practically so during my JavaScript learning journey I have completed a lot of mini-projects like 
-      Quiz App, Counter App Wheather App, Temperature Conversion App, TODO List, Dice Roller App, Calculator App and mini-games etc.  
-### Portfolio    
-    🔗 Under Construction...
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:yourmail@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-### Technologies I am working with
-    👉   REACT.JS with Redux
-            Tailwind.css
-            Bootstrap 5
-            Next.JS
-            Nest.JS
-            Node.JS
-            Express.JS
-            RESTful API
-            MongoDB
-            Firebase
-            postgreSQL 
-            POSTMAN
-            Thunder Client
-            Vite 
-            npm
-            Docker + kubernates 
-    👉	Designing
-            Figma
-            Jira
-            Notion.so
-            Miro
-            Canva
-            Adobe 
-            Blender
-    👉  Version Control
-            Git
-            Github
-            Bitbucket
-            Jira for Software Project Management
-    👉  Development IDEs
-            JetBrains IntelliJ Idea (Community Edition)
-            Netbeans 12.3
-            Visual Studio Code
-            Eclipse
-            Android Studio
-    👉  APIs Testing Tools
-            Postman Client
-            Thunder Client (VS Code Extension)
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+---
+
+### 🔧 Languages I Use
+```bash
+HTML | CSS | JavaScript | Python | PHP
+
